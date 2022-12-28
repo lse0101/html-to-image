@@ -91,13 +91,6 @@
     "semantic-release": "^19.0.5",
     "tslib": "^2.4.0",
     "typescript": "^4.9.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bubkoo/html-to-image.git"
-  },
-  "bugs": {
-    "url": "https://github.com/bubkoo/html-to-image/issues"
-  },
-  "homepage": "https://github.com/bubkoo/html-to-image#readme"
+  }
+  
 }
